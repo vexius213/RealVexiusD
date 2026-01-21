@@ -3,8 +3,9 @@
 I'm 17 years old and enjoy building things with code.
 
 🧠 Languages I use
-- C#
-- Lua
+- C# (for school projects and backends)
+- TypeScript (React)
+- Lua (mostly roblox)
 - JavaScript (learning)
 
 Currently doing
